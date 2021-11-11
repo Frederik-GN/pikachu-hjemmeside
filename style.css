@@ -172,6 +172,7 @@ footer p {
     width: 25%;
     height: 200px;
     float: left;
+    padding: 20px;
     margin: 0;
     padding-left: 25px;
     box-sizing: border-box;
